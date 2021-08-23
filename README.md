@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myguybenjamin
 - 👀 I’m interested in sustainable living
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on earthship designer
+- 💞️ I’m looking to collaborate on an earthship designer
 - 📫 You can reach me at myguyben@protonmail.com
 
 <!---
